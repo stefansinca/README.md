@@ -1,4 +1,4 @@
-Hi 👋 I'm Stephan
+Hi 👋 I'm Stephan!
 =======================
 
 Front-end Developer
