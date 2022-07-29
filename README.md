@@ -10,6 +10,7 @@ Learning everyday something new about Web Development and best practices.
 * 🖥️  See my portfolio at [My Personal Website](https://thinq.netlify.app/)
 * ✉️  You can contact me at [stefisinca@gmail.com](mailto:stefisinca@gmail.com)
 * 🧠  I'm learning ReactJS
+* :construction: Currently working on <a href='https://github.com/stefansinca/singer-Artist-Website'>**singer-Artist-Website**</a>
 
 ### Skills
 
